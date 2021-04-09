@@ -25,7 +25,7 @@ The requirements is inside the PDF.<a href="https://github.com/Hl112/JourneyToTh
 
 ### Screenshot
 <p align='center'>
-<img width="420" height="250" src="https://github.com/Hl112/JourneyToTheWest/blob/ea222b5725705cadf27dddb4c3483048a0983a4e/Screenshot.png"/>
-<img width="420" height="250" src="https://github.com/Hl112/JourneyToTheWest/blob/ea222b5725705cadf27dddb4c3483048a0983a4e/Screenshot1.png"/>
+<img width="500" height="300" src="https://github.com/Hl112/JourneyToTheWest/blob/ea222b5725705cadf27dddb4c3483048a0983a4e/Screenshot.png"/>
+<img width="500" height="300" src="https://github.com/Hl112/JourneyToTheWest/blob/ea222b5725705cadf27dddb4c3483048a0983a4e/Screenshot1.png"/>
 <p>
 #### © 2021 by HL
